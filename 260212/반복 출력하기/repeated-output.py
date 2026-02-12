@@ -4,3 +4,6 @@ n = int(input())
 def f(n):
     for _ in range(n):
         print('12345^&*()_')
+
+# 함수 호출
+f(n)
