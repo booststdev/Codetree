@@ -4,3 +4,6 @@ n, m = map(int, input().split())
 def f(n, m):
     for _ in range(n):
         print("1"*m)
+
+# 함수 호출
+f(n, m)
